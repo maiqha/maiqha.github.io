@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Completed Projects
 
-[Project 1 Title](/sample_page)
+[Cervical cancer predictive factors](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Current Projects
 
-- [Project 1 Title](http://example.com/)
+- [KPIs that predict CTR](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
