@@ -20,7 +20,7 @@ This is a more detailed description.
 
 ### Current Projects
 
-- [KPIs that predict CTR](http://maiqha.github.io/marketing-metrics-in-R/)
+- [KPIs that predict CTR]()
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
