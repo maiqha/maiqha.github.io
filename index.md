@@ -4,7 +4,7 @@
 
 ### Completed Projects
 
-[Cervical cancer predictive factors](/maiqha.github.io/cervical-cancer-factor-with-R/)
+[Cervical cancer predictive factors](http://maiqha.github.io/cervical-cancer-factor-with-R/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
