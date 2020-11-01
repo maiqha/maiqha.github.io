@@ -1,4 +1,7 @@
-This is a more detailed description.
+My goal is to become an expert in data analytics and provide actionable insights to leaders and companies in various fields, in hope that my work can somehow bring better lives for everyone on the planet. I have always been curious and persistent from a young age, qualities that prove to be helpful in the last fews years of my journey with statistics and data analysis. Working in different fields such as manufacturing, education, healthcare, hospitality & services provided me the fortune of experiences, which allows for creative problem solving and forces me to stay open-minded in my analytical conclusions and subsequent recommendations. Currently, I am working on multiple self-directed data analysis projects on GitHub to hone my skills in R and Python. You can check them out below and more on my [GitHub profile](https://github.com/maiqha).
+
+---
+
 ## Portfolio
 
 ---
