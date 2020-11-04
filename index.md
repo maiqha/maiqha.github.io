@@ -13,8 +13,9 @@ For work contact, please message me on [LinkedIn](https://www.linkedin.com/in/ma
 [Cervical cancer predictive factors](http://maiqha.github.io/cervical-cancer-factors-with-R/)
 
 ---
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=false"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
