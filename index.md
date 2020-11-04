@@ -14,13 +14,8 @@ For work contact, please message me on [LinkedIn](https://www.linkedin.com/in/ma
 
 ---
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
----
-
 ### Current Projects
 
 - [KPIs that predict CTR]()
-- [Project 2 Title](http://example.com/)
 
 ---
