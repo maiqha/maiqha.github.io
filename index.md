@@ -14,7 +14,7 @@ For work contact, please message me on [LinkedIn](https://www.linkedin.com/in/ma
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=false"/>
 
 ---
 
