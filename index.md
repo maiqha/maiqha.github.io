@@ -1,4 +1,4 @@
-I aspire to become a data analyst the fields of business, healthcare, or education. Having worked in different fields in the past, I learned that I thrive on creative problem-solving and open-mindedness and thus strive to bring these qualities to any place at which I work. Currently, I am working on multiple data analysis projects on GitHub using R and Python. Check them out below.
+I aspire to become a data analyst the fields of business, healthcare, or education. Having worked in different fields in the past, I learned that I thrive on creative problem-solving and simplicity and thus strive to bring these qualities to any place at which I work. Currently, I am working on multiple data analysis projects on GitHub using R and Python. Check them out below.
 
 For work contact, please message me on [LinkedIn](https://www.linkedin.com/in/maiqha/). 
 
