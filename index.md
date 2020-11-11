@@ -10,7 +10,7 @@ For work contact, please message me on [LinkedIn](https://www.linkedin.com/in/ma
 
 ### Completed Projects
 
-[Cervical cancer predictive factors](http://maiqha.github.io/cervical-cancer-factors-with-R/)
+- [Cervical cancer predictive factors](http://maiqha.github.io/cervical-cancer-factors-with-R/)
 
 ---
 
