@@ -13,9 +13,3 @@ For work contact, please message me on [LinkedIn](https://www.linkedin.com/in/ma
 - [Cervical cancer predictive factors](http://maiqha.github.io/cervical-cancer-factors-with-R/)
 
 ---
-
-### Current Projects
-
-- [KPIs that predict CTR]()
-
----
