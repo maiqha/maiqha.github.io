@@ -1,4 +1,4 @@
-I aspire to become a data analyst in business, healthcare, or education. Having worked in different fields in the past, I developed a better grasp of creative problem-solving and systematic optimization/automation and thus strive to bring these qualities to any place at which I work. I'm keeping myself busy with some data analysis projects on GitHub using R and Python. Check them out below.
+I aspire to become a software engineer who utilizes programming to solve business problems. Having worked in different fields in the past, I developed a better grasp of teamwork, finding creative solution, and optimization/automation in the business setting. I'm keeping myself busy with learning and applying data analytics in my current job and working on projects on GitHub.
 
 For work contact, please message me on [LinkedIn](https://www.linkedin.com/in/maiqha/). 
 
