@@ -11,6 +11,7 @@ For work contact, please message me on [LinkedIn](https://www.linkedin.com/in/ma
 ### Completed Projects
 
 - [Cervical cancer predictive factors](http://maiqha.github.io/cervical-cancer-factors-with-R/)
-- [Limited resources teaching R programming at UHD](http://maiqha.github.io/limited-resources-teaching-r-programming-at-uhd/)
+- [Limited resources teaching R programming at UHD](https://github.com/maiqha/limited-resources-teaching-r-programming-at-uhd)
+
 
 ---
