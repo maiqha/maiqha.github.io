@@ -4,11 +4,12 @@ For work contact, please message me on [LinkedIn](https://www.linkedin.com/in/ma
 
 ---
 
-## Portfolio
-
----
+## Projects
 
 ### [Cervical cancer predictive factors](http://maiqha.github.io/cervical-cancer-factors-with-R/)
+My most extensive research project using linear discriminant analysis, quadratic discriminate analysis, and logistic regression analysis. I also applied AIC (Stepwise-function) and utilized miscalculation rate for model selection.
+
 ### [Limited resources teaching R programming at UHD](http://maiqha.github.io/limited-resources-teaching-r-programming-at-uhd/)
+I designed a survey to determine problems students faced while learning the programming language R. The survey also gathered students suggestions on possible improvements.
 
 ---
