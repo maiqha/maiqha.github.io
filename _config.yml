@@ -2,11 +2,11 @@ title: Mai Ha # your name (or website title) here
 logo: "images/IMG_0475.jpg" # your photo (or logo) here
 description: # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  Aspiring data analyst with 2-year experience working in the healthcare industry. Hold a Bachelor's degree is in Applied Statistics, and an Associate's degree in Business Management.
+  I'm an aspiring data analyst with 2-year experience working in the healthcare industry. I hold a Bachelor's degree is in Applied Statistics, and an Associate's degree in Business Management. Let's work together!
   <br><br>
-  <a href="https://maiqha.github.io/resume/2022.06.04-Mai-Ha-resume.pdf">View Resume</a>
+  <a href="https://maiqha.github.io/resume/2022.06.04-Mai-Ha-resume.pdf" target="_blank">View Resume</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/maiqha/">View LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/maiqha/" target="_blank">View LinkedIn Profile</a>
   
   
 theme: jekyll-theme-minimal
