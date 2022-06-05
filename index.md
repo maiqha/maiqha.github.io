@@ -1,4 +1,4 @@
-My goal is to help businesses optimize outcomes, automate processes, and make data-driven decisions. My educational background combined with work experience building systems, making dashboards, and managing projects, made me a versatile generalist with a knack for drawing insights and giving recommendations. I'm now looking for work opportunity to specialize as a data analyst.
+My goal is to help businesses and organizations optimize outcomes, automate processes, and make data-driven decisions. My educational background combined with work experience building systems, making dashboards, and managing projects, made me a versatile generalist with a knack for drawing insights and providing recommendations. I'm now looking to specialize as a data analyst as I'm earning my Google Data Analytics certificate.
 
 View my [resume](https://maiqha.github.io/resume/2022.06.04-Mai-Ha-resume.pdf).
 
