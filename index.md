@@ -3,7 +3,7 @@ Welcome to my portfolio!
 
 My professional goal is to help organizations optimize outcomes, automate processes, and make data-driven decisions. My education background combined with work experience building systems, making dashboards, and managing projects, made me a versatile generalist with a knack for drawing business insights and providing recommendations. I'm now looking to specialize as a data analyst as I'm earning my Google Data Analytics certificate.
 
-Contact me for work on [LinkedIn](https://www.linkedin.com/in/maiqha/) or <a href="mailto:maiqha@icloud.com">send me an email</a>.
+Contact me for work on <a href="https://www.linkedin.com/in/maiqha/" target="_blank">LinkedIn</a> or <a href="mailto:maiqha@icloud.com">send me an email</a>.
 
 ---
 
