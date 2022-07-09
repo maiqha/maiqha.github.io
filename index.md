@@ -9,14 +9,14 @@ My areas of strength include
 
 Currently, I’m seeking a position as a data analyst in a company where I’m responsible for analyzing data from different types of sources, generating useful reports and insights, and most importantly helping the company make data-driven decisions.
 
-For work inquiry, <a href="https://www.linkedin.com/in/maiqhadata/" target="_blank">message me on LinkedIn</a> or <a href="mailto:maiqhadata@gmail.com">send me an email</a>.
+For work inquiry, message me on <a href="https://www.linkedin.com/in/maiqhadata/" target="_blank">LinkedIn</a> or send me an <a href="mailto:maiqhadata@gmail.com">email</a>.
 
 ---
 
 ## Projects
 
 ### [Cervical cancer predictive factors](http://maiqha.github.io/cervical-cancer-factors-with-R/)
-My most extensive research project using linear discriminant analysis, quadratic discriminant analysis, and logistic regression analysis. I applied AIC (Stepwise-function) and utilized miscalculation rate for model selection. I used R Markdown to create the final report in PDF and a presentation in HTML.
+This is my most extensive research project utilizing linear discriminant analysis, quadratic discriminant analysis, and logistic regression analysis. I applied AIC (Stepwise-function) and miscalculation rate to support the decision in model selection. The final report in PFD and the HTML presentation were created with R Markdown in R Studio.
 
 ### [Limited resources teaching R programming at UHD](http://maiqha.github.io/limited-resources-teaching-r-programming-at-uhd/)
 I designed a survey and compiled interview questions to determine problems students faced while learning the programming language R at the university. The survey also gathered students suggestions on possible improvements.
